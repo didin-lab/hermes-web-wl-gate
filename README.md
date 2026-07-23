@@ -227,8 +227,9 @@ A: This gets you **on the list**. Minting later is [hermes-nft-skills](https://g
 
 ## Companion (Indonesian, shorter)
 
-A simpler Indonesian version lives on Notion (portfolio hub):  
-→ *Notion URL filled after publish*
+A simpler Indonesian version lives on Notion (portfolio hub):
+
+→ https://app.notion.com/p/Web-WL-Gate-di-Hermes-ringkas-3a6dddfb96cd818eb376ecf14d646b0f
 
 ---
 
